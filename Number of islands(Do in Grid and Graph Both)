@@ -1,4 +1,4 @@
-/ Java program to count islands in boolean 2D matrix
+// Java program to count islands in boolean 2D matrix
 import java.util.*;
 import java.lang.*;
 import java.io.*;
